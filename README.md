@@ -21,3 +21,5 @@ Content-
 - on_function.ipynb - Optimization algorithms on non-convex function.
 - plot_img - folder used by the program files
 - model_plots - 3D plot images of the above-mentioned optimization techniques.
+- data - folder containing data files (used for linear regression)
+
