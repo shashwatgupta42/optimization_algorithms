@@ -6,7 +6,7 @@ In this project, I have implemented the following optimization algorithms from s
 3) Nesterov Accelerated Gradient (NAG)
 4) Adaptive Gradient (AdaGrad)
 5) Root Mean Squared Propagation (RMSprop)
-6) Adaptive Moment Estimation (Adam)
+6) Adaptive Moment Estimation (Adam)<br>
 (These can also be used with learning rate decay)
 
 These optimizations algorithms are applied on -
